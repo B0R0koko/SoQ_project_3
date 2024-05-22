@@ -10,8 +10,13 @@ School of Quants. Python project 3. Top-performers continuation of performance s
   I think ML could be used when there is actually something to detect, like manipulation in pumps and dumps in cryptocurrency markets (my current project), 
   there I see how one can use ML/DL for classification and therefore use the logits for some sort of portfolio weights. We could have trained a model prediciting returns in 14 days, 
   but I bet it would have been total garbage.</p>
-  
+
+<h4>Train 30 days use for 10 days. Max Sharpe using top-performers</h4>
 <p align="center">
-   <img src="SoQ_Python_Project_3_Mikhail_Mironov_files/SoQ_Python_Project_3_Mikhail_Mironov_32_1.png" alt="Best result" width="1000">
-  
+   <img src="SoQ_Python_Project_3_Mikhail_Mironov_files/SoQ_Python_Project_3_Mikhail_Mironov_32_1.png" alt="Best result. Max Sharpe" width="1000">
+</p>
+
+<h4>Train 90 days use for 14 days. Max CVAR using top-performers</h4>
+<p align="center">
+   <img src="SoQ_Python_Project_3_Mikhail_Mironov_files/SoQ_Python_Project_3_Mikhail_Mironov_37_0.png" alt="Best result. Max CVAR" width="1000">
 </p>

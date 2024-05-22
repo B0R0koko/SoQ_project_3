@@ -12,5 +12,6 @@ School of Quants. Python project 3. Top-performers continuation of performance s
   but I bet it would have been total garbage.</p>
   
 <p align="center">
-   <img src="SoQ_Python_Project_3_Mikhail_Mironov_files/SoQ_Python_Project_3_Mikhail_Mironov_32_1.png" alt="Best result" width="500">
+   <img src="SoQ_Python_Project_3_Mikhail_Mironov_files/SoQ_Python_Project_3_Mikhail_Mironov_32_1.png" alt="Best result" width="1000">
+  
 </p>
